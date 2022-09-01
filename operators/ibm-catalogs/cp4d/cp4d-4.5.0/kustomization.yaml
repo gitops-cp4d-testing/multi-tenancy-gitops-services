@@ -1,0 +1,17 @@
+resources:
+  - ./cpd-platform.yaml
+  - ./ibm-cloud-databases-redis-operator-catalog.yaml
+  - ./ibm-cpd-ae-operator-catalog.yaml
+  - ./ibm-cpd-ccs-operator-catalog.yaml
+  - ./ibm-cpd-datarefinery-operator-catalog.yaml
+  - ./ibm-cpd-datastage-operator-catalog.yaml
+  - ./ibm-cpd-iis-operator-catalog.yaml
+  - ./ibm-cpd-scheduling-catalog.yaml
+  - ./ibm-cpd-wkc-operator-catalog.yaml
+  - ./ibm-db2aaservice-cp4d-operator-catalog.yaml
+  - ./ibm-db2uoperator-catalog.yaml
+  - ./ibm-dmc-operator-catalog.yaml
+  - ./ibm-dv-operator-catalog.yaml
+  - ./ibm-fdb-operator-catalog.yaml
+  - ./manta-adl-operator-catalog.yaml
+  - ./opencloud-operators.yaml

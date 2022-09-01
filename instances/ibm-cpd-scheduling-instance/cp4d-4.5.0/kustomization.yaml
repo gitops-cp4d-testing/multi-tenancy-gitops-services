@@ -1,0 +1,3 @@
+resources:
+  # - ./olm-utils-cm.yaml
+  - ./ibm-cpd-scheduler.yaml

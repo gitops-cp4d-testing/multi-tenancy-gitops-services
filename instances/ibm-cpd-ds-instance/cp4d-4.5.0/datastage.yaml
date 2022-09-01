@@ -1,0 +1,11 @@
+apiVersion: ds.cpd.ibm.com/v1
+kind:  DataStage
+metadata:
+  name: datastage
+spec:
+  license:
+    accept: true
+    license: Enterprise
+  fileStorageClass: managed-nfs-storage
+  blockStorageClass: managed-nfs-storage
+  version: 4.5.0

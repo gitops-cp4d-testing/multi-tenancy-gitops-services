@@ -1,0 +1,11 @@
+apiVersion: cpd.ibm.com/v1
+kind: Ibmcpd
+metadata:
+  name: ibmcpd-cr
+spec:
+  license:
+    accept: true
+    license: Enterprise
+  fileStorageClass: managed-nfs-storage
+  blockStorageClass: managed-nfs-storage
+  version: 4.5.0

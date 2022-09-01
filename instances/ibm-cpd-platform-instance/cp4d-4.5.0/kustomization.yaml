@@ -1,0 +1,4 @@
+resources:
+  - ./operandrequest.yaml
+  - ./olm-utils-cm.yaml
+  - ./ibmcpd-cr.yaml
