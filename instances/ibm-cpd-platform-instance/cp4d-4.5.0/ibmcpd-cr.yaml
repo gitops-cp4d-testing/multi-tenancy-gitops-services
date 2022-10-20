@@ -6,6 +6,6 @@ spec:
   license:
     accept: true
     license: Enterprise
-  fileStorageClass: managed-nfs-storage
-  blockStorageClass: managed-nfs-storage
+  fileStorageClass: ocs-storagecluster-cephfs
+  blockStorageClass: ocs-storagecluster-ceph-rbd
   version: 4.5.0
